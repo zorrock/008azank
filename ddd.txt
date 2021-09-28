@@ -19,3 +19,5 @@ MyBatis3DynamicSql
 https://zhuanlan.zhihu.com/p/67930839
 Element UI表单设计及代码生成器
 https://github.com/JakHuang/form-generator
+welabx - antv G6
+https://github.com/claudewowo/welabx-g6
