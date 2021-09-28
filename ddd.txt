@@ -1,2 +1,21 @@
 ddd
-just test
+关于ddd的一片文章
+https://martinfowler.com/bliki/AnemicDomainModel.html
+矢量的点乘和叉乘是什么？
+https://www.zhihu.com/question/423953976/answer/1507148900
+springBoot+graphql+graphiql 基础工程搭建
+https://blog.csdn.net/qq_22435843/article/details/85264455
+线段的交点
+https://www.cnblogs.com/ZQUACM-875180305/p/10149769.html
+flowable工作流引擎
+https://flowable.com/open-source/
+https://github.com/flowable/flowable-engine
+DAG流程框架
+https://zhuanlan.zhihu.com/p/73035324
+Flowable流程引擎入门
+https://www.jianshu.com/p/4253f6eac920
+MyBatis3DynamicSql
+三分钟带你快速学习RGB、HSV和HSL颜色空间
+https://zhuanlan.zhihu.com/p/67930839
+Element UI表单设计及代码生成器
+https://github.com/JakHuang/form-generator
